@@ -1,6 +1,6 @@
 # itsmemack
 
-A new Flutter application.
+A new Flutter application Just started.
 
 ## Getting Started
 
